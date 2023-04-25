@@ -74,7 +74,7 @@ after that, install npm inside client Folder
  
  * npm build 
 
- and also install APPOLO insside back end folders
+ and also install APPollO inside back end folders
 
  * npm install apollo-server-express@2.15.0
  
