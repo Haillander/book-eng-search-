@@ -66,7 +66,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 # Installation 
 
-To run this project, install locally npm: Inside Client folder and server folder
+To run this project, install locally npm i: Inside Client folder and server folder
 
 * npm install 
 
