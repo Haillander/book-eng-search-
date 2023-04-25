@@ -70,7 +70,7 @@ To run this project, install locally npm: Inside Client folder and server folder
 
 * npm install 
 
-after that install npm inside client 
+after that, install npm inside client Folder
  
  * npm build 
 
