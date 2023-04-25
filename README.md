@@ -70,7 +70,7 @@ To run this project, install locally npm i: Inside Client folder and server fold
 
 * npm install 
 
-after that, install npm inside client Folder
+after that ypu can install npm inside client Folder
  
  * npm build 
 
